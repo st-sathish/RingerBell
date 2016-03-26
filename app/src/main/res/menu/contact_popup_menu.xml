@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu  xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mark_as_black_list"
+        android:title="@string/black_list_title" />
+
+    <item
+        android:id="@+id/mark_as_white_list"
+        android:title="@string/white_list_title" />
+</menu>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RingerBell</string>
+
+    <string name="send_sms_action_lbl">Send SMS</string>
+    <string name="phone_number_lbl">Enter phone number</string>
+    <string name="sms_txt_area_lbl">SMS Message</string>
+    <string name="title_activity_ringer_bell">RingerBell</string>
+    <string name="action_message">Message</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_profile_General">ProfileGeneral</string>
+    <string name="silent_killer_msg">Enter Message as Key</string>
+    <string name="action_save_btn_lbl">Save</string>
+    <string name="black_list_title">Mark As Black List</string>
+    <string name="white_list_title">Mark As White List</string>
+    <string name="remove">Remove</string>
+</resources>
