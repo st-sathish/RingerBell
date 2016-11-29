@@ -1,7 +1,7 @@
 # RingerBell
 
 ## Overview
-The objective of this project to block unwanted calls when you are in the vibrate mode.
+The objective of this project to block unwanted calls when you are in the ringing mode.
 
 Here, we've two type of list
 
