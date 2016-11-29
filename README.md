@@ -1,17 +1,17 @@
 # RingerBell
 
 ## Overview
-The objective of this project to block unwanted calls when you are in the meeting but in the same time we can't reject our important person call Let's say from your home call.
+The objective of this project to block unwanted calls when you are in the vibrate mode.
 
 Here, we've two type of list
 1) White List
 2) Block List
 
 ### White List
-Put the important contact in your while list. It'll ring even if your mobile is in vibrate mode
+Add the contact in your while list. It'll ring even if your mobile is in the vibrate mode
 
 ### Black List
-Put the contact here to reject that caller when you are in the vibrate mode.
+Add the contact in the black list.It'll reject that caller when you are in the vibrate mode.
 
 ## The MIT License
 
