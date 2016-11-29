@@ -5,8 +5,8 @@ The objective of this project to block unwanted calls when you are in the vibrat
 
 Here, we've two type of list
 
-1) White List
-2) Block List
+* White List
+* Block List
 
 ### White List
 Add the contact in your while list. It'll ring even if your mobile is in the vibrate mode
