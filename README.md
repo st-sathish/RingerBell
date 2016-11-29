@@ -1,1 +1,25 @@
 # RingerBell
+
+## Overview
+The objective of this project to block unwanted calls when you are in the meeting but in the same time we can't reject our important person call Let's say from your home call.
+
+Here, we've two type of list
+1) White List
+2) Block List
+
+### White List
+Put the important contact in your while list. It'll ring even if your mobile is in vibrate mode
+
+### Black List
+Put the contact here to reject that caller when you are in the vibrate mode.
+
+## The MIT License
+===============
+
+Copyright (c) 2016 Sathish Thangathurai
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
