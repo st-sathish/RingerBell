@@ -4,6 +4,7 @@
 The objective of this project to block unwanted calls when you are in the vibrate mode.
 
 Here, we've two type of list
+
 1) White List
 2) Block List
 
