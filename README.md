@@ -14,7 +14,6 @@ Put the important contact in your while list. It'll ring even if your mobile is 
 Put the contact here to reject that caller when you are in the vibrate mode.
 
 ## The MIT License
-===============
 
 Copyright (c) 2016 Sathish Thangathurai
 
